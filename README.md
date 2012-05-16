@@ -1,7 +1,7 @@
 DART-HttpStatusCodes
 ====================
 
-HTTP-Status-Codes for Dart.
+HTTP status codes for Dart.
 
 <pre><code>
 class HttpStatus {
