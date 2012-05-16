@@ -3,12 +3,13 @@ DART-HttpStatusCodes
 
 HTTP-Status-Codes for Dart.
 
+<pre><code>
 class HttpStatus {
   /** Status-Code: 0 (Communication with Server failed) */
   static final int HTTP_COMMUNICATION_FAILED = 0;
   static final int HTTP_0_COMMUNICATION_FAILED = 0;
   
-  /** HTTP Status-Code: 200 (OK) */
+  /** HTTP Status-Code: 200 (OK) */<br />
   static final int HTTP_OK = 200;
   static final int HTTP_200_OK = 200;
 
@@ -18,6 +19,7 @@ class HttpStatus {
 
   ... all the other codes are in the .dart-file
 }
+</code></pre>
 
 Hope this helps someone.
 
