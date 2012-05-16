@@ -23,7 +23,7 @@ class HttpStatus {
 
 Hope this helps someone.
 
-If you ask yourself what the f*** is Dart - then click <a href="http://www.dartlang.org/">[dartlang]</a> for 
+If you ask yourself what the f*** is Dart - then click <a href="http://www.dartlang.org/" target="_blank">[dartlang]</a> for 
 more information about this great new language from Google.
 
-If this sample is helpful for you - please <a href="http://gplus.mikemitterer.at/">(Circle)</a> me.
+If this sample is helpful for you - please <a href="http://gplus.mikemitterer.at/" target="_blank">(Circle)</a> me.
