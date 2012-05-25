@@ -1,4 +1,4 @@
-class HttpStatus {
+interface HttpStatus {
   /** Status-Code: 0 (Communication with Server failed) */
   static final int HTTP_COMMUNICATION_FAILED = 0;
   static final int HTTP_0_COMMUNICATION_FAILED = 0;
